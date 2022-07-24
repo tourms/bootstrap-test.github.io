@@ -1,1 +1,1 @@
-# bootstrap-test.github..io
+# bootstrap-test.github.io
